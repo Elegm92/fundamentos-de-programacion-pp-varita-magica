@@ -1,4 +1,4 @@
-Ejercicio 1 
+//Ejercicio 1 
 let a = document.querySelector(".blog-logo");
 a.addEventListener("click",(event)=>{
     event.preventDefault();
