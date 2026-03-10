@@ -1,4 +1,4 @@
-/*  Ejercicio 1 
+Ejercicio 1 
 let a = document.querySelector(".blog-logo");
 a.addEventListener("click",(event)=>{
     event.preventDefault();
@@ -26,7 +26,7 @@ art.style.backgroundColor = "orange";
 let cambio = document.querySelectorAll(".kg-image")[1];
 cambio.addEventListener("mouseover",()=>{
     cambio.src="../index_files/streacom-da2-dust-nets.png";
-}) */
+})
 //Ejercicio 4
 
 const colors = ['red', 'blue', 'green']
